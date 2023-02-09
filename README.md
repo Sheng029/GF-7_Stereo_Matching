@@ -8,3 +8,6 @@
 链接：https://pan.baidu.com/s/1N5wl_bYJmJEibHs7DFlHTQ?pwd=nel4 
 
 提取码：nel4
+
+### 代码使用方法
+根据自己的影像路径，修改code/predictor.py中的路径，运行即可得到结果
